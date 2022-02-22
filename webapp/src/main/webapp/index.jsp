@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>SOMDEV URMALIYA</h1>
-    <p>my website creater somdev urmaliya.</p>
+    <p>my website creater somdevSOMDEV.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
